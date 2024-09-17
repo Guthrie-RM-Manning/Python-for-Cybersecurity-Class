@@ -1,0 +1,9 @@
+##start of MyInitials.py 
+
+##Very basic printing the lines using a print() function
+
+print("GGGGGG             M       M        ")
+print("G                 M M     M M       ")
+print("G   GGG         M    M   M   M      ")
+print("G     G        M       M      M     ")
+print("GGGGGG        M                M    ")
