@@ -4,7 +4,7 @@
 #number1
 
 aStr = input('Please input something to check if it is a palindrome: ')
-aStrReverse = aStr[:-2]
+aStrReverse = aStr[:-1]
 
 print(aStrReverse)
 if aStr.lower() == aStrReverse.lower(): 
